@@ -99,4 +99,4 @@ ehthumbs.db
 Thumbs.db
 
 # Claude specific settings
-.claude/settings.local.json
+.claude/
